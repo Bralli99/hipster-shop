@@ -105,5 +105,3 @@ manifests:
   - ./kubernetes-manifests/loadgenerator.yaml
 deploy:
   kubectl: {}
-
-#check
